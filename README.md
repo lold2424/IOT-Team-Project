@@ -1,2 +1,2 @@
-# IOT-Team-Project
-HKNU University IOT Team Project
+# 한경대학교 IOT 수업 팀 프로젝트
+## H-Smart4412 타겟보드를 사용한 프로젝트(보안 잠금 시스템)
