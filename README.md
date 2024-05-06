@@ -20,7 +20,7 @@
 
 **2️⃣: 플로우 차트**
 
-![image](https://github.com/lold2424/IOT-Team-Project/assets/91832324/10994ab4-7ffd-49b3-b32d-a467fbbec83e)
+![image](https://github.com/lold2424/IOT-Team-Project/assets/91832324/75218ee3-7da4-4635-95a1-1af726ba2bb2)
 
 **3️⃣: 기능 개발 목표**
 
