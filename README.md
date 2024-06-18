@@ -28,6 +28,8 @@
 
 ## 시연 영상 다운받기
 
+https://github.com/lold2424/IOT-Team-Project/assets/91832324/a70caf4a-0316-4828-9042-36cf5c564f0c
+
 [다운로드](https://github.com/lold2424/IOT-Team-Project/blob/main/Presentation/Operation_video.mp4)
 
 ## 사용한 자료 출처
